@@ -29,6 +29,7 @@ from player_rule import Player
 06/06 全自動と手動の選択を行えるように改修
 07/16 gitの勉強のためこのコメントのみ追加
 07/16 branchの勉強のためのコメント追加
+08/05 gitのconfig値を書き換えての確認
 """
 
 class BubbGame:
